@@ -1,0 +1,16 @@
+{
+  "name": "shakewellagency/wandin-plugin-bbpowerpack",
+  "description": "Private mirror of bbpowerpack for Wandin.",
+  "type": "wordpress-plugin",
+  "license": "proprietary",
+  "version": "1.0.0",
+  "require": {
+    "composer/installers": "^2.2"
+  },
+  "extra": {
+    "installer-name": "bbpowerpack"
+  },
+  "authors": [
+    { "name": "Shakewell Agency" }
+  ]
+}
